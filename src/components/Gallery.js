@@ -10,19 +10,19 @@ const images = [
     id: 1,
     src: John2,
     title: "John Houghtaling II",
-    category: "Arcade Games",
+    category: "CEO",
   },
   {
     id: 2,
     src: James,
     title: "James Glickenhaus",
-    category: "TV",
+    category: "Shareholder",
   },
   {
     id: 3,
     src: Andrey,
     title: "Andrey-Kunatbaev",
-    category: "Boombox",
+    category: "Shareholder",
   },
 ];
 
