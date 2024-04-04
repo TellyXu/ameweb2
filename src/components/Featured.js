@@ -4,7 +4,6 @@ import {
   useGsapFeaturedRightShutter,
 } from "../hooks/gsap";
 
-import gsap from 'gsap';
 import photo1 from "../images/John-Houghtaling.jpg";
 import photo2 from "../images/Capture16-4-696x496.png";
 import SectionTitle from "./SectionTitle";
