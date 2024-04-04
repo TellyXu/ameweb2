@@ -26,7 +26,7 @@ const Navbar = () => {
           <Link to="about">About</Link>
         </li>
         <li ref={li3}>
-          <Link to="gallery">Gallery</Link>
+          <Link to="gallery">Board of Directors</Link>
         </li>
       </ul>
       <div className="logo" ref={logo}>
